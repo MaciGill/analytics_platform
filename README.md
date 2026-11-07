@@ -28,8 +28,6 @@ credit risk analytics solution.
 
 - data: datasets
 - notebooks: analytical notebooks
-- src: Python scripts
-- sql: SQL queries
 - reports: analytical reports
 - tests: automated tests
 
